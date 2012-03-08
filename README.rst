@@ -4,8 +4,8 @@ A collection of tools for collecting data related to Indonesia. Data extracted
 from wikipedia or others resources.
 
 
-Requirement
------------
+Requirements
+------------
 - Requests_
 - BeautifulSoup_
 
